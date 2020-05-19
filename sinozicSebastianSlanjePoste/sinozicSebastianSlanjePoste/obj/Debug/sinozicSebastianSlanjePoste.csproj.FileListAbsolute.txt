@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\sinozicSebastianSlanjePoste\sinozicSebastianSlanjePoste\bin\Debug\sinozicSebastianSlanjePoste.exe.config
+C:\Users\sebas\source\repos\sinozicSebastianSlanjePoste\sinozicSebastianSlanjePoste\bin\Debug\sinozicSebastianSlanjePoste.exe
+C:\Users\sebas\source\repos\sinozicSebastianSlanjePoste\sinozicSebastianSlanjePoste\bin\Debug\sinozicSebastianSlanjePoste.pdb
+C:\Users\sebas\source\repos\sinozicSebastianSlanjePoste\sinozicSebastianSlanjePoste\obj\Debug\sinozicSebastianSlanjePoste.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\sinozicSebastianSlanjePoste\sinozicSebastianSlanjePoste\obj\Debug\sinozicSebastianSlanjePoste.Form1.resources
+C:\Users\sebas\source\repos\sinozicSebastianSlanjePoste\sinozicSebastianSlanjePoste\obj\Debug\sinozicSebastianSlanjePoste.Properties.Resources.resources
+C:\Users\sebas\source\repos\sinozicSebastianSlanjePoste\sinozicSebastianSlanjePoste\obj\Debug\sinozicSebastianSlanjePoste.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\sinozicSebastianSlanjePoste\sinozicSebastianSlanjePoste\obj\Debug\sinozicSebastianSlanjePoste.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\sinozicSebastianSlanjePoste\sinozicSebastianSlanjePoste\obj\Debug\sinozicSebastianSlanjePoste.exe
+C:\Users\sebas\source\repos\sinozicSebastianSlanjePoste\sinozicSebastianSlanjePoste\obj\Debug\sinozicSebastianSlanjePoste.pdb
